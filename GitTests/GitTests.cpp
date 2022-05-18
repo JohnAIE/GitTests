@@ -5,7 +5,7 @@
 
 int main()
 {
-    for (int i = 0; i < 733; i++)
+    for (int i = 0; i < 675; i++)
     {
         std::cout << "Hello Branched World!\n";
     }    
